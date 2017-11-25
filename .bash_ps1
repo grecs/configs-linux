@@ -6,8 +6,8 @@
 # years ago.
 #
 # Add the following to the end of your .bash_profile for it to take
-# effect. If your OS doesn't use this file, add it to .profile
-# instead.
+# effect. If your OS doesn't use this file, add it to .bashrc or
+# .profile instead, whichever works for you.
 # 
 # # Add separator before command prompts
 # if [ -f "$HOME/linux-configs/.bash_ps1" ]; then
