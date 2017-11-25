@@ -1,2 +1,14 @@
-# Set up history so displays date/time of command run by adding the following to user’s .bashrc.
+######################################################################
+# Adds date/time to the history command
+#
+# Add the following to the end of your .bash_profile for it to take
+# effect. If your OS doesn't use this file, add it to .bashrc or
+# .profile instead, whichever works for you.
+# 
+# # Add date/time to history command
+# if [ -f "$HOME/linux-configs/.history_datetime" ]; then
+# . "$HOME/linux-configs/.history_datetime"
+# fi
+######################################################################
+
 export HISTTIMEFORMAT="%y/%m/%d %T "
