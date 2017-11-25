@@ -1,3 +1,2 @@
 # configs-linux
-
 Just some configurations for Linux to try out...
