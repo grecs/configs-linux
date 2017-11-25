@@ -1,0 +1,2 @@
+# Set up history so displays date/time of command run by adding the following to user’s .bashrc.
+export HISTTIMEFORMAT="%y/%m/%d %T "
