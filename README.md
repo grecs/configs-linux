@@ -1,2 +1,2 @@
-# configs-linux
+# linux-bash-configs
 Just some configurations for Linux to try out...
