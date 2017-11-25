@@ -8,8 +8,8 @@
 # Add the following to the end of your .bash_profile for it to take
 # effect.
 # 
-# if [ -f "$HOME/.bash_ps1" ]; then
-# . "$HOME/.bash_ps1"
+# if [ -f "$HOME/linux-configs/.bash_ps1" ]; then
+# . "$HOME/linux-configs/.bash_ps1"
 # fi
 ######################################################################
 
