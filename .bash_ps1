@@ -6,7 +6,8 @@
 # years ago.
 #
 # Add the following to the end of your .bash_profile for it to take
-# effect.
+# effect. If your OS doesn't use this file, add it to .profile
+# instead.
 # 
 # if [ -f "$HOME/linux-configs/.bash_ps1" ]; then
 # . "$HOME/linux-configs/.bash_ps1"
