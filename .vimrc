@@ -26,3 +26,4 @@ set formatoptions+=t  " Toggle automatic text wrapping to on (should be default)
 " Todo
 " * Grab system vimrc file and append custom stuff to it (often
 "   located outside user's directory if not present & varies per OS.
+"   (Some sources say it reads system first and then appends your own.)
