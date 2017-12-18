@@ -22,7 +22,10 @@ set textwidth=80      " Set length of lines for "hard" wrapping                *
 set autoindent        " Allows interactive indenting/more than 2 lines for lists
 set formatoptions+=t  " Toggle automatic text wrapping to on (should be default) 
 
-" Personal Common Command Reference
+" Setup
+" ln -s ~/linux-configs/vimrc ~/.vimrc
+
+" Personal Command Reference
 " gq: Reformat per text width and options
 " gw: Same as gq but keeps cursor in place
 " gqq: Reformat the current line
@@ -32,5 +35,5 @@ set formatoptions+=t  " Toggle automatic text wrapping to on (should be default)
 " :nohlsearch to remove search highlights
 
 " Todo
-" * Grab existing vimrc file and appent custom stuff to it (often
+" * Grab existing vimrc file and append custom stuff to it (often
 "   located outside user's directory if not present & varies per OS.
