@@ -1,6 +1,6 @@
 " Custom configuration settings for vim
 " Setup by entering the following command from home directory
-"   ln -s ~/linux-configs/vimrc ~/.vimrc
+"   ln -s ~/linux-configs/.vimrc ~/.vimrc
 
 " Fix problem with vim80 not sourcing defaults.vim file if .vimrc exists
 " (:scriptnames to check)
@@ -15,4 +15,4 @@ set incsearch         " Search as characters are typed
 set smartcase         " Switch search to case-sensitive if an uppercase used
 set textwidth=80      " Set length of lines for "hard" wrapping
 set autoindent        " Allows interactive indenting/more than 2 lines for lists
-set formatoptions+=t  " Toggle automatic text wrapping to on (should be default) 
+set formatoptions+=t  " Toggle automatic text wrapping to on (should be default)
