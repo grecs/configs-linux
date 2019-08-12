@@ -2,8 +2,8 @@
 # Adds a separator before prompts to ease seeing new commands
 #
 # From https://github.com/emilis/emilis-config/blob/master/.bash_ps1
-# but with some tweaks; thanks to emilis for this contribution many
-# years ago.
+# but with some slight formatting and comment tweaks; thanks to emilis
+# for this contribution many years ago.
 #
 # Add the following to the end of your .bash_profile for it to take
 # effect. If your OS doesn't use this file, add it to .bashrc or
